@@ -10,4 +10,8 @@ th, td {
   text-align: center;
 }
 
+    thead tr{
+  background-color: #f2f2f2;
+}
+
 
